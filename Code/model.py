@@ -91,7 +91,6 @@ def calculate(expression):
         return stack[0]
 
     postfix_tokens = infix_to_postfix(tokens)
-    print(postfix_tokens)
     result = evaluate_postfix(postfix_tokens)
 
     return result
