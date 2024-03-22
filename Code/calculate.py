@@ -1,4 +1,4 @@
-# author：马千里, 孙烨铠
+# author：马千里
 # time：2024/3/9 20:00
 
 import re
