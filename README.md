@@ -45,7 +45,7 @@
 1. 克隆项目：
 
     ```bash
-    git clone https://github.com/your-username/calculator.git
+    git clone https://github.com/Yuki-zik/calculator.git
     ```
 
 2. 进入项目目录：
